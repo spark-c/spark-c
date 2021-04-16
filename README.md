@@ -6,7 +6,7 @@ I’m currently working on personal projects to improve my grasp of Python and o
 I'm interested in becoming a professional developer someday, and I'm curious to see what kind of paths and projects might lead me there.
 
 Please reach out to me if you have any comments about my code, or if you'd like to collaborate on any project! I'd love to hear from absolutlely anyone.
-I can best be reached by email at cklsparks@gmail.com, or on discord "spark.c#7001"
+I can best be reached by email at cklsparks@gmail.com, Twitter @collin_sparkles, or on Discord "spark.c#7001"
 
 Cheers!
 
