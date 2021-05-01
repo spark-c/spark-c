@@ -1,5 +1,7 @@
 # Hello! My name is Collin Sparks.
 
+## Seeking Developer role. Let's chat!
+
 I'm a dance and theatre nerd who also happens to love playing around with computers. In the last couple of years I've taken up an interest in programming and have enjoyed all of the bits and bobs I've been able to make.
 
 I love when I'm able to help someone solve a problem, and it's super validating being able to step back and see results from my work. I'm interested in becoming a professional developer someday, and I'm curious to see what kind of paths and projects might lead me there.
