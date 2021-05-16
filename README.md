@@ -10,6 +10,8 @@ I recently "finished" my [*web-contact-converter*](https://github.com/spark-c/we
 
 For now, I've shifted to my [*py-garden*](https://github.com/spark-c/py-garden) project, which is really challenging my understanding of project structure / imports, and savvy class inheritance.
 
+![](wcc_demo.gif)
+
 Please reach out to me if you have any comments about my code, or if you'd like to collaborate on any project! I'd love to hear from absolutlely anyone.
 I can best be reached by email at cklsparks@gmail.com, Twitter [@collin_sparkles](https://twitter.com/collin_sparkles), or on Discord "spark.c#7001"
 
