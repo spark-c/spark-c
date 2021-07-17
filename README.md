@@ -8,7 +8,7 @@ Solving a problem is super motivating for me -- and I love when I'm able to see 
 
 I recently "finished" my [*web-contact-converter*](https://github.com/spark-c/web-contact-converter) project, and I'm SUPER proud to have deployed it as my first complete full-stack web app.
 
-For now, I've shifted to other projects, including my [*py-garden*](https://github.com/spark-c/py-garden) repo, and learning React.js!
+For now, I've shifted to other projects, e.g. extending my [discord bot](https://github.com/spark-c/baby-bot), and learning React.js!
 
 ![](wcc_demo.gif)
 ![](pg_demo.gif)
