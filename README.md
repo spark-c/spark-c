@@ -6,9 +6,9 @@ I'm a dance and theatre nerd who also happens to love working with computers. Th
 
 Solving a problem is super motivating for me -- and I love when I'm able to see real results from my work!
 
-I recently "finished" my [*web-contact-converter*](https://github.com/spark-c/web-contact-converter) project, and I'm SUPER proud to have deployed it as my first complete full-stack web app.
+Earlier in 2021, I "finished" my [*web-contact-converter*](https://github.com/spark-c/web-contact-converter) project, and I'm super happy to have deployed it as my largest / most-useful complete full-stack web app.
 
-For now, I've shifted to other projects, e.g. extending my [discord bot](https://github.com/spark-c/baby-bot), and learning React.js!
+For now, I've shifted to other projects, e.g. extending my [discord bot](https://github.com/spark-c/baby-bot), and practicing React.js!
 
 ![](wcc_demo.gif)
 ![](pg_demo.gif)
