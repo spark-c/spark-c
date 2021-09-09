@@ -8,7 +8,7 @@ Solving a problem is super motivating for me -- and I love when I'm able to see 
 
 Earlier in 2021, I "finished" my [*web-contact-converter*](https://github.com/spark-c/web-contact-converter) project, and I'm super happy to have deployed it as my largest / most-useful complete full-stack web app.
 
-For now, I've shifted to other projects, e.g. extending my [discord bot](https://github.com/spark-c/baby-bot), and practicing React.js (with my [personal site](https://spark-c.github.io) and my [coffee calculator](https://github.com/spark-c/coffee-calculator))! Repos [here](https://github.com/spark-c/spark-c.github.io) and [here](https://github.com/spark-c/coffee-calculator) respectively.
+For now, I've shifted to other projects, e.g. extending my [discord bot](https://github.com/spark-c/baby-bot), and practicing React.js (with my [personal site](https://spark-c.github.io) and my [coffee calculator](https://coffee-calculator-nine.vercel.app))! Repos [here](https://github.com/spark-c/spark-c.github.io) and [here](https://github.com/spark-c/coffee-calculator) respectively.
 
 ![](wcc_demo.gif)
 ![](pg_demo.gif)
