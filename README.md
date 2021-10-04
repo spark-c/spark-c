@@ -1,6 +1,8 @@
 # Hello! My name is Collin Sparks.
 
-I'm a dance and theatre nerd who also happens to love working with computers.
+I'm a dance and theatre nerd who also happens to love working with computers! I've spent well over a decade involved with ballet, tap, acting, stage management, and lighting design for the stage.
+
+Now I'm focused on learning to create high-quality (and _useful!_) software; theatrical production and application development are incredibly similar processes and I'm really delighted about that. A lot of the _most fun_ parts of the former are also in the latter!  
 
 Solving a problem is super motivating for me -- and I love when I'm able to see real results from my work!
 
