@@ -1,6 +1,6 @@
 # Hello! My name is Collin Sparks.
 
-I'm a dance and theatre nerd who also happens to love working with computers. There's always more to learn in terms of software and technologies, and it is _amazing_ to me when I see all of the innovative ways that tech has been, and continues to be, improved; I am humbled to see the ways that people have used software as a means to overcome frightening obstacles in their lives and communities.
+I'm a dance and theatre nerd who also happens to love working with computers.
 
 Solving a problem is super motivating for me -- and I love when I'm able to see real results from my work!
 
