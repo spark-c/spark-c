@@ -15,6 +15,8 @@ Myself and 2 other developers are building a SaaS-scale application, and I'm hav
 
 I feel very good about the organization and state of the project. It's refreshing to work alongside other developers!
 
+I also have been working on an [open-source PR](https://github.com/chicagopython/chipy.org/pull/422) lately that has been a lot of fun and a great experience learning about Django. I'm going to be working on more OSS in the near future :)
+
 ## Other Work
 
 Early in 2021, I "finished" my [*web-contact-converter*](https://github.com/spark-c/web-contact-converter) project, and I'm super happy to have deployed it as my largest / most-useful complete full-stack web app.
