@@ -9,7 +9,7 @@ Solving a problem is super motivating for me -- and I love when I'm able to see 
 
 ## Current Work
 
-I'm highly exited to be working on a collaborative project right now called **"Solo"**!
+I'm highly exited to be working on a collaborative project right now called **"Solo"**! The repository is hosted privately on BitBucket, but I am more than happy to talk about our progress :)
 
 Myself and 2 other developers are building a SaaS-scale application, and I'm having a great time on it. So far, my friend (more senior than I) is focusing on the detailed project-management side, I am implementing the foundation to the codebase, and the third developer is more junior / learning.
 
