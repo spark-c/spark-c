@@ -7,7 +7,7 @@ Now I'm focused on learning to create high-quality (and _useful!_) software; the
 Solving a problem is super motivating for me -- and I love when I'm able to see real results from my work!
 
 
-## Current Work
+## Current Work - "Solo" and lots of (py)testing!
 
 I'm highly exited to be working on a collaborative project right now called **"Solo"**! The repository is hosted privately on BitBucket, but I am more than happy to talk about our progress :)
 
