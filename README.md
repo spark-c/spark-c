@@ -1,6 +1,9 @@
 # Hello! My name is Collin Sparks.
 
-## I'm looking for work! If you're looking for a developer who's eager to get involved with your team, then reach out; I've got a lot I'd love to talk about :) 
+## I'm looking for work!
+If you're looking for a developer who's eager to get involved with your team, then reach out; I've got a lot I'd love to talk about :)
+
+---
 
 I'm a dance and theatre nerd who also happens to love working with computers! I've spent well over a decade involved with ballet, tap, acting, stage management, and lighting design for the stage.
 
